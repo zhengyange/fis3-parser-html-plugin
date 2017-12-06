@@ -11,8 +11,13 @@
     "html plugin",
     "ejs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:twolun/fis3-parser-html-plugin.git"
+  },
+  "homepage": "https://github.com/twolun/fis3-parser-html-plugin",
   "author": "2237993760@qq.com",
-  "license": "ISC",
+  "license": "BSD",
   "dependencies": {
     "ejs": "^2.5.7"
   }
