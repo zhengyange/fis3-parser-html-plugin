@@ -1,0 +1,19 @@
+{
+  "name": "fis3-parser-html-plugin",
+  "version": "1.0.0",
+  "description": "fis3插件，解析html文件，使之能够使用ejs语法进行条件编译",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis3",
+    "html plugin",
+    "ejs"
+  ],
+  "author": "2237993760@qq.com",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7"
+  }
+}
